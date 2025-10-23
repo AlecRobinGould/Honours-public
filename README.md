@@ -1,5 +1,7 @@
 # Pyramidal horn:
 
+[Additive Manufacturing in Ka-band Antenna Engineering.pdf](https://github.com/user-attachments/files/23093038/Additive.Manufacturing.in.Ka-band.Antenna.Engineering.pdf)
+
 ![Horn animation](https://github.com/user-attachments/assets/2594b2ff-b288-4b80-a07f-1e47072c3be8)
 ![image](https://github.com/user-attachments/assets/ae532700-fe0f-4303-99ad-113a9ed6ada8)
 ![image](https://github.com/user-attachments/assets/094bed9d-ebb0-43f4-9bcf-af3c21a3ea07)
