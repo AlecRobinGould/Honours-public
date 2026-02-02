@@ -1,6 +1,8 @@
-# Pyramidal horn:
+# Conference paper:
 
 [Additive Manufacturing in Ka-band Antenna Engineering.pdf](https://github.com/AlecRobinGould/Honours-public/blob/main/Additive%20Manufacturing%20in%20Ka-band%20Antenna%20Engineering.pdf)
+
+# Pyramidal horn experiments and sims:
 
 ![Horn animation](https://github.com/user-attachments/assets/2594b2ff-b288-4b80-a07f-1e47072c3be8)
 ![image](https://github.com/user-attachments/assets/ae532700-fe0f-4303-99ad-113a9ed6ada8)
